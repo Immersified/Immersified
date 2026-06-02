@@ -1,4 +1,4 @@
-# Thomas Verheul
+# Thomas
 
 **Data Scientist · Engineering Physics background**
 
