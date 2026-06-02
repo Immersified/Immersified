@@ -42,9 +42,3 @@ Algorithmic collection-selection system placing offers on the Ethereum mainnet.
 Coursework spanning statistics, signal processing, control engineering, linear algebra, and numerical methods. Thesis work included an end-to-end Laser-Induced Breakdown Spectroscopy measurement system (Spectral Industries) and a closed-loop induction-furnace control system (Tata Steel).
 
 ---
-
-### Get in touch
-
-- 📍 Netherlands
-- 💼 [LinkedIn](https://www.linkedin.com/in/thomas-verheul)
-- 📫 your-email@outlook.com
