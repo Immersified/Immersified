@@ -4,6 +4,8 @@
 
 Python developer with 6+ years building data-driven systems, focused on quantitative trading and machine learning. My physics training taught me to decompose complex, multi-variable problems into testable pieces and to validate results the way deterministic systems demand — reproducible, documented, and robust out of sample.
 
+![Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Immersified&show_icons=true)
+
 Currently building random-forest trading systems and exploring how ML models hold up under live, changing market conditions.
 
 ---
