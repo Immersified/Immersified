@@ -10,9 +10,9 @@ Currently building random-forest trading systems and exploring how ML models hol
 
 ### Skills
 
-**Languages:** Python (proficient) · TypeScript (working)
+**Languages:** Python (proficient) · TypeScript (working) · SQL (working)
 **Data Science:** Pandas · NumPy · SciPy · scikit-learn · Matplotlib · Seaborn
-**Tools & Infra:** MongoDB · Git/GitHub · Linux (Ubuntu) · multiprocessing
+**Tools & Infra:** MongoDB · Git/GitHub · Linux (Ubuntu) · Docker · multiprocessing
 
 ---
 
